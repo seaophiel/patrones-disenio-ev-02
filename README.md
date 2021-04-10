@@ -1,2 +1,2 @@
 # patrones-disenio-ev-02
-Proyecto MVC para evaluacion patrones de diseño
+Proyecto java con patrones de diseño solicitados
